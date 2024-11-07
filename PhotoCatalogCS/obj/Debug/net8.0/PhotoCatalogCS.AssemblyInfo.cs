@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PhotoCatalogCS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+68a075906fd2efcccbd1842919379d70cb9fba6c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eaba1fea08c4a573bd0087bcbd1712d904e639e4")]
 [assembly: System.Reflection.AssemblyProductAttribute("PhotoCatalogCS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PhotoCatalogCS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
